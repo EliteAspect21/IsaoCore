@@ -1,0 +1,15 @@
+var name = "IsaoCore";
+var code = "1";
+var active_server1 = "0";
+var active_server2 = "0";
+var active_server3 = "1";
+var active_VPS-GER = "1";
+var active_VPS-USA = "1";
+var active_VPS-AUS = "1";
+var throwcode = "546882";
+var LicenseName = "Isao";
+var LicenseID = "isao-js";
+var LicenseGen = "https://sydneym.dev/isao/gen/php?code="auth_code";
+var email = "admin@usdevs.net";
+var OS = "CENTOS cust-build-039";
+
